@@ -29,7 +29,7 @@
     </a>
 </div><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
     <p><strong>Languages</strong></p>
