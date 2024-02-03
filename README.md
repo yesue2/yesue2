@@ -6,18 +6,16 @@
  
 ## 🐰 My 🐰
 
-### 🐈‍⬛ GitHub 🐈‍⬛
+#### GitHub
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesue2&count_bg=%23FFA7E9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### 💻 DEV's log 💻
+#### DEV's log
 
 <a href="https://velog.io/@yesue" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesue)
-
-### 📞 E-mail 📞
+#### E-mail
 
 <a href="mailto:ysbsjh2464@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
