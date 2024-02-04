@@ -2,22 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YeSeul's+GitHub!👋)](https://git.io/typing-svg)
 
 <div align="left"> 
-  
- 
-## 🐰 My 🐰
-
-#### GitHub
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesue2&count_bg=%23FFA7E9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-#### DEV's log
-
-<a href="https://velog.io/@yesue" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
-
-#### E-mail
-
-<a href="mailto:ysbsjh2464@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 ## 🔨 Stacks 🔨
@@ -56,17 +42,32 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=black">  
+        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=black">  
     </div>
     <!-- Collaboration Tools -->
     <p><strong>Collaboration Tools</strong></p>
     <div>
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
+     <br>
      <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> 
      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> 
      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"> 
+     <br>
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
+     <br>
      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+     <br>
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=FIgma&logoColor=white"> 
 </div><br>
 </div>
+
+## 🐰 My 🐰
+
+#### DEV's log
+
+<a href="https://velog.io/@yesue" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
+
+#### E-mail
+
+<a href="mailto:ysbsjh2464@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ysbsjh2464@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
