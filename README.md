@@ -3,13 +3,8 @@
 
 <div align="left"> 
 
-
-#### dev's log
 <a href="https://velog.io/@yesue" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/>
-
-#### E-mail
 <a href="mailto:ysbsjh2464@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ysbsjh2464@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-
 
 ## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -20,8 +15,8 @@
      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> 
      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> 
     </div>
-    <!-- Tools & Environments -->
-    <p><strong>Tools & Environments</strong></p>
+    <!-- Dev Tools & Environments -->
+    <p><strong> Dev Tools & Environments</strong></p>
     <div>
      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"> 
      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"> 
@@ -29,25 +24,13 @@
     </div>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=Make&logoColor=white"> 
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-    </div>
-    <!-- Web -->
-    <p><strong>Web</strong></p>
-    <div>
-     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> 
-    </div>
-    <!-- OS -->
-    <p><strong>OS</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=black">  
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">  
     </div>
     <!-- Collaboration Tools -->
     <p><strong>Collaboration Tools</strong></p>
