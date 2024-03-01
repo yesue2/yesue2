@@ -4,7 +4,7 @@
 <div align="left">  
 
 <a href="https://velog.io/@yesue" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/><a href="mailto:ysbsjh2464@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ysbsjh2464@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
- 
+   
 ## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
